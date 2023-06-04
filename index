@@ -1,0 +1,35 @@
+<docTYPE html>
+<html lang="en">
+<head>
+<meta charset ="UTF-8">
+<meta name="viewport" content="width=device-width">
+link rel="stylesheet" href="test.CSS" 
+<title>
+QuestionCongrats
+</title>
+
+</head>
+<body>
+
+<p>sign up form example</p>
+<input type="text" value="first,last,name ">
+<input type="text" value="organization">
+<input type="text" value="Email address">
+<input type="text" value="work phone">
+<input type="text" value="home phone">
+<input type="text" value="cell phone">
+<input type="text" value="fax">
+<input type="text" value="address1">
+<input type="text" value="address2">
+<input type="text" value="cell phone">
+<input type="text" value="city">
+<input type="text" value="the state">
+<input type="text" value="zip postal code">
+<input type="text" value="country">
+<br>
+
+<input type="submit">
+<a href="https://github.com/engAbdullahAH/AbdullahHQues2/new/main">forms </a>
+
+</body>
+</html>
