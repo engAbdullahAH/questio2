@@ -1,0 +1,10 @@
+p{
+font-family :Arial
+fort-size: 44px;
+}
+input[type="text"]{
+color: black
+}
+input[type="submit"]{
+background: grey;
+}
