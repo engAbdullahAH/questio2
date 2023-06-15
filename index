@@ -12,19 +12,20 @@ QuestionCongrats
 <body>
 
 <p>sign up form example</p>
-<input type="text" value="first,last,name ">
-<input type="text" value="organization">
-<input type="text" value="Email address">
-<input type="text" value="work phone">
-<input type="text" value="home phone">
-<input type="text" value="cell phone">
-<input type="text" value="fax">
-<input type="text" value="address1">
-<input type="text" value="address2">
-<input type="text" value="cell phone">
+<input type="text" value="first,last,name "><br>
+<input type="text" value="organization"><br>
+<input type="text" value="Email address"><br>
+<input type="text" value="work phone"><br>
+<input type="text" value="home phone"><br>
+<input type="text" value="cell phone"><br>
+<input type="text" value="fax"><br>
+<input type="text" value="address1"><br>
+<input type="text" value="address2"><br>
+<input type="text" value="cell phone"><br>
 <input type="text" value="city">
-<input type="text" value="the state">
-<input type="text" value="zip postal code">
+<br>
+<input type="text" value="the state"><br>
+<input type="text" value="zip postal code"><br>
 <input type="text" value="country">
 <br>
 
@@ -33,3 +34,8 @@ QuestionCongrats
 
 </body>
 </html>
+
+
+
+
+
